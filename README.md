@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an Associate Data Engineer @ DBF
+- 👋 Hi, I’m Machine Learning Engineer @ DBF
 - 👀 I’m interested in developing methodologies to design better and sustainable cities
 - 💞️ I’m looking to collaborate on architectural and design projects invovling AI
 - 📫 Reach out to me via mail, linkedin or twitter
